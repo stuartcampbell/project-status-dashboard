@@ -13,6 +13,9 @@
 
   - repo: bluesky/databroker
     badges: travis, codecov, pypi, conda-forge
+    
+  - repo: bluesky/databroker-server
+    badges: travis, codecov:
 
   - repo: bluesky/intake-bluesky
     badges: travis, codecov, pypi
